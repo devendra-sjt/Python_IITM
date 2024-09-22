@@ -1,5 +1,6 @@
 # Practice Assignment Week 1 Question No: 1,2,3
 
+# The Questions Of PA 1
 
 # # print(1 2 3 4 5)
 # print("a + 'b' + c + '' + d")
@@ -313,4 +314,7 @@
 # ```
 
 # This code achieves the same result but is more scalable and easier to understand.
+
+
+
 
